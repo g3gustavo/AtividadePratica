@@ -2,7 +2,6 @@ body {
     background-color: #eaf8f6;
     margin: 10px;
 }
-
 h1{
     color: blue;
     text-align: center;
@@ -20,8 +19,7 @@ ul{
 .imagemHobbie{
     border: 1px solid black;
     border-radius: 10px;
-    height: 250px;
-    
+    height: 250px;  
 }
 .imagemPais{
     border: 1px solid black;
@@ -34,12 +32,10 @@ table{
     border-radius: 10px;
     text-align: center; 
     margin-top: 20px;
-
 }
 a:hover {
       color: red;
         }
-
 .botao{
     background-color: gray;
     border: 1px solid black;
