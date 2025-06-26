@@ -1,0 +1,59 @@
+body {
+    background-color: #eaf8f6;
+    margin: 10px;
+}
+
+h1{
+    color: blue;
+    text-align: center;
+}
+h2{
+    font-size: 18px;
+}
+p{ 
+    font-size: 24px;
+    text-align: justify;
+}
+ul{
+    line-height: 35px;
+    }
+.imagemHobbie{
+    border: 1px solid black;
+    border-radius: 10px;
+    height: 250px;
+    
+}
+.imagemPais{
+    border: 1px solid black;
+    border-radius: 10px;
+    height: 250px;
+    width: 350px;
+    }
+table{
+    border: 1px solid black;
+    border-radius: 10px;
+    text-align: center; 
+    margin-top: 20px;
+
+}
+a:hover {
+      color: red;
+        }
+
+.botao{
+    background-color: gray;
+    border: 1px solid black;
+    color: white;
+    padding: 0px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 10px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+div{
+    font-size: 18px;
+    font-style: italic;
+}
